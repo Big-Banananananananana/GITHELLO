@@ -18,4 +18,6 @@ namespace ConsoleApp1
             //PRO GANSTA REP A.K. ALEKSEY
         }
     }
-}//Алексей гот
+
+}
+//Алексей гот
