@@ -10,9 +10,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Aleksey GO TO AVTOBYS");
-            Console.WriteLine("Hello Andre GO TO OZON");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Hello Aleksey GO TO AVTOBYS");
+                Console.WriteLine("Hello Andre GO TO OZON");
+            }
+            //PRO GANSTA REP A.K. ALEKSEY
         }
     }
+
 }
-//Андрей когда долг вернёшь 5000
+//Алексей гот
