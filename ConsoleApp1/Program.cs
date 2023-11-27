@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello Aleksey GO TO AVTOBYS");
             Console.WriteLine("Hello Andre GO TO OZON");
+            //PRO GANSTA REP A.K. ALEKSEY
         }
     }
 }//Алексей гот
