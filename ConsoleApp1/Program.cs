@@ -14,4 +14,4 @@ namespace ConsoleApp1
             Console.WriteLine("Hello Andre GO TO OZON");
         }
     }
-}
+}//Алексей гот
