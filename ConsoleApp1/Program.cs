@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Aleksey GO TO AVTOBYS");
+            Console.WriteLine("Hello Andre GO TO OZON");
         }
     }
 }
